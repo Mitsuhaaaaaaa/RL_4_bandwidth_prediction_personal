@@ -24,7 +24,7 @@ class Storage:
         self.old_logprobs.clear()
         self.values.clear()
         self.rewards.clear()
-        self.returns.claer()
+        self.returns.clear()
         self.true_actions.clear()
 
 # 定义训练参数
